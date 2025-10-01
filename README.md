@@ -33,6 +33,7 @@ By using this software, you agree to use it solely for learning purposes.
   - [Running the Hedge Fund](#running-the-hedge-fund)
   - [Running the Backtester](#running-the-backtester)
 - [Project Structure](#project-structure)
+- [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Feature Requests](#feature-requests)
 - [License](#license)
@@ -130,6 +131,16 @@ ai-hedge-fund/
 ├── pyproject.toml
 ├── ...
 ```
+
+## Documentation
+
+Comprehensive API and component docs with examples are available in the `docs/` folder:
+
+- `docs/index.md` (overview)
+- `docs/getting-started.md`
+- `docs/modules/...` per-module API reference
+
+You can browse these markdown files locally in your editor.
 
 ## Contributing
 
